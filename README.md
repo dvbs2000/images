@@ -1,7 +1,5 @@
 # Images
 
-A small browser-based uploader for `dvbs2000/images`.
+A simple entry page for uploading images through GitHub Issues.
 
-Open the GitHub Pages site, paste a fine-grained GitHub token scoped to this repository with Contents: Read and write, then drag, choose, or paste images. The uploader returns a raw image URL and V2EX-ready Markdown.
-
-Images committed here are public. Do not upload sensitive images.
+Open the Pages site, sign in to GitHub, and use the new Issue draft to drag, choose, or paste an image. GitHub generates a Markdown attachment URL immediately; the issue does not need to be submitted.
